@@ -23,7 +23,8 @@ GAME_STATUS_MODE = {
         'render_step': 12,
         'render_img': 'image_10x10'
     },
-    'future_mode': {}}
+    'future_mode': {}
+}
 
 GAME_MODE = 'large'
 
